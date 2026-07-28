@@ -90,23 +90,25 @@ streamlit run app_streamlit.py
 
 - ¿Cuáles son los derechos del estudiante?
 - ¿Qué promedio necesito para permanecer en la universidad?
-- ¿Qué ocurre si un estudiante entra en prueba académica?
-- ¿Cuáles son los deberes del estudiante?
-- ¿Cómo funciona el proceso disciplinario?
+- ¿Cuáles son las causales de pérdida de la calidad de estudiante?
+
+## Ejemplos de respuestas
+
+**Pregunta:** ¿Cuáles son los derechos del estudiante?
+
+**Respuesta:** El agente responde con el listado de derechos establecidos en el reglamento, como el derecho a ser tratado con dignidad, expresar libremente sus ideas, acceder a los servicios de la universidad y participar en los espacios de representación estudiantil.
 
 ---
 
-## Ejemplo de respuesta
+**Pregunta:** ¿Qué promedio necesito para permanecer en la universidad?
 
-**Pregunta**
+**Respuesta:** El agente indica que, según el reglamento, el estudiante debe mantener un promedio ponderado de período igual o superior a 2.5 y cumplir con el promedio acumulado establecido en el currículo.
 
-> ¿Cuáles son los derechos del estudiante?
+## Aplicación desplegada
 
-**Respuesta**
+La aplicación puede probarse en el siguiente enlace:
 
-El agente identifica los apartados correspondientes del reglamento y responde con la lista de derechos contemplados en el documento, incluyendo aspectos como el acceso a los servicios de la universidad, la participación en los órganos de representación estudiantil, el debido proceso y el derecho a recibir información sobre los criterios de evaluación.
-
----
+https://alura-agente-ia-np6p4qtkkdvztqrvzxxappx.streamlit.app/
 
 ## Autor
 
